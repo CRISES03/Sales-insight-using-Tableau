@@ -1,1 +1,2 @@
 # Sales-insight-using-Tableau
+In this project, I leveraged my proficiency in SQL and Tableau to extract valuable sales insights from the given dataset. Utilizing SQL queries, I efficiently retrieved relevant data and performed data cleaning operations to ensure data accuracy. Subsequently, through Tableau's advanced data visualization capabilities, I created insightful dashboards and interactive visualizations that enabled in-depth analysis of sales trends, patterns, and key performance indicators, empowering data-driven decision-making for the organization.
